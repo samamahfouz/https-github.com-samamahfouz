@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sama Mahfouz/)]https://www.linkedin.com/in/sama-mahfouz-b19119291/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sama Mahfouz/)](https://www.linkedin.com/in/sama-mahfouz-b19119291/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
